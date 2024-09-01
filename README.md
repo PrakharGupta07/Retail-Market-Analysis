@@ -23,6 +23,6 @@ Welcome to the **Retail & Market Analysis** project repository! This project is 
 - **Retail & Market Analysis.pdf:** [Download PDF Report](./Retail%20&%20Market%20Analysis.pdf)
 - **Retail & Market Analysis.pptx:** [Download Presentation](./Retail%20&%20Market%20Analysis.pptx)
 
-## Raw Data Disclaimer 🛑
+### Disclaimer 🛑
 
 The raw data used for this analysis contains sensitive information and cannot be publicly shared. However, if you are interested in accessing the data for academic purposes, please [contact me](mailto:prakhar1997g@gmail.com) to request access.
